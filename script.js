@@ -6,4 +6,20 @@ window.addEventListener("load", function () {
   //setting up canvas height and width
   canvas.height = 500;
   canvas.width = 500;
+
+  class InputHandler {}
+
+  class Projectile {}
+
+  class Player {}
+
+  class Enemy {}
+
+  class Layer {}
+
+  class Backgroud {}
+
+  class UI {}
+
+  class Game {}
 });
